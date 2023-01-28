@@ -21,7 +21,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-![Material Dashboard BS4 PRO](https://user-images.githubusercontent.com/51070104/214523237-e71b66e6-4db6-4467-a4c2-550c37de7553.png)
+![Material Dashboard BS4 PRO - Premium Django Starter](https://user-images.githubusercontent.com/51070104/215266235-2b096d5a-4447-4a35-ba2b-933389b28bda.jpg)
 
 <br />
 
